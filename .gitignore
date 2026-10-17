@@ -1,0 +1,6 @@
+# Keep the two benchmark CSV files tracked in data/, ignore external xlsx/scratch files
+data/*.xlsx
+__pycache__/
+*.pyc
+*.npy
+training/checkpoints/

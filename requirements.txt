@@ -1,0 +1,22 @@
+# analysis/ & training/ (classical ML)
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.1
+scipy>=1.9
+emoji>=2.0
+tabulate>=0.9
+
+# training/ (transformer fine-tuning)
+torch>=2.0
+transformers>=4.35
+datasets>=2.14
+accelerate>=0.24
+huggingface_hub>=0.19
+
+# exploratory/nepsense_keyword.py (reads .xlsx)
+openpyxl>=3.0
+
+# manuscript/
+matplotlib>=3.5
+pillow>=9.0
+python-docx>=0.8.11
